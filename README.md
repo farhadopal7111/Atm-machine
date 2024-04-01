@@ -1,2 +1,2 @@
 # Atm-machine
-this is my tm machine
+this is my Atm machine
